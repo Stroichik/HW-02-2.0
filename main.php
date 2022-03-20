@@ -43,7 +43,14 @@
                     <p>Учусь искать уязвимости в программах, но пока прохожу РНР</p>
                 </div>
 
+                <div>
+                    <h3>Мой учител</h3>
+                    <?php echo '<img src="img/Учител.png" alt="Дратути" width="360" height="260">'; ?>
+                </div>
+
             </div>
+
+
 
             <div class="knowledge">
                 <?php include 'knowledge.inc.php';
