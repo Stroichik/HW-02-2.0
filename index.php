@@ -1,5 +1,5 @@
 <?php
-$greetings = 'Дратути 2.0';
+$greetings = 'Дратути 2.1';
 
 $nickname = "Stroichik™";
 $group = "HACKER-17";
